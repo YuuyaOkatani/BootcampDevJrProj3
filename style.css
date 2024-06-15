@@ -24,8 +24,8 @@ button{
 }
 
 button:hover{
-    background-color: #190D1B;
-    color: white;
+    background-color: #641F70;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .traffic-light{
@@ -54,12 +54,12 @@ button:hover{
 }
 
 .green-light{
-    background-color: green;
+    background-color: rgb(0, 255, 0);
 
 }
 
 .yellow-light{
-    background-color: yellow;
+    background-color: rgb(255, 255, 0);
 
 }
 
